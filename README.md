@@ -12,6 +12,8 @@
 ╚═══════════════════════════════════════════════════════════════╝
 ```
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Front-End+Developer;React+%26+JavaScript+Specialist;Building+Beautiful+Experiences;Always+Learning+%26+Growing" alt="Typing SVG" />
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/mahmoud-hosni2000)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF6B6B?style=flat-square&logo=web&logoColor=white)](https://portfolio-pkc8.vercel.app/)
 [![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/MahmoudHosni0007)
