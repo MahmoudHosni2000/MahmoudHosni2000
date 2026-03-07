@@ -70,6 +70,17 @@ I'm a **Front-End Developer** from **Egypt** 🇪🇬 passionate about crafting 
 
 ---
 
+## 📈 Activity & Contributions
+
+<div align="center">
+
+### 🔥 Contribution Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MahmoudHosni2000&theme=dark)
+
+</div>
+
+---
+
 ## 💼 Open To Opportunities
 
 ✅ **Freelance Projects** | ✅ **Collaborations** | ✅ **Open Source** | ✅ **Mentoring**
