@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrng815/giphy.gif" width="30px"> Mahmoud Hosni
+# 👋 Mahmoud Hosni
 
 <div align="center">
 
@@ -12,18 +12,10 @@
 ╚═══════════════════════════════════════════════════════════════╝
 ```
 
-<a href="https://www.linkedin.com/in/mahmoud-hosni2000">
-  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white" alt="LinkedIn">
-</a>
-<a href="https://portfolio-pkc8.vercel.app/">
-  <img src="https://img.shields.io/badge/-Portfolio-FF6B6B?style=flat-square&logo=web&logoColor=white" alt="Portfolio">
-</a>
-<a href="https://t.me/MahmoudHosni0007">
-  <img src="https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white" alt="Telegram">
-</a>
-<a href="https://github.com/MahmoudHosni2000">
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" alt="GitHub">
-</a>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/mahmoud-hosni2000)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF6B6B?style=flat-square&logo=web&logoColor=white)](https://portfolio-pkc8.vercel.app/)
+[![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/MahmoudHosni0007)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/MahmoudHosni2000)
 
 > *"Every pixel tells a story"* ✨
 
@@ -42,12 +34,14 @@ Front-End Developer from **Egypt** 🇪🇬 passionate about crafting beautiful,
 <div align="center">
 
 **Frontend**
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=Tailwind-CSS&logoColor=white)
 
 **Backend & Tools**
+
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white)
@@ -73,9 +67,9 @@ Front-End Developer from **Egypt** 🇪🇬 passionate about crafting beautiful,
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MahmoudHosni2000&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MahmoudHosni2000&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/MahmoudHosni2000)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudHosni2000&layout=compact&theme=tokyonight&hide_border=true)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudHosni2000&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/MahmoudHosni2000)
 
 </div>
 
@@ -111,7 +105,10 @@ Front-End Developer from **Egypt** 🇪🇬 passionate about crafting beautiful,
 
 **Let's build something amazing together!**
 
-[📧 Email](mailto:mahmoud@example.com) • [💼 LinkedIn](https://www.linkedin.com/in/mahmoud-hosni2000) • [🌐 Portfolio](https://portfolio-pkc8.vercel.app/) • [✉️ Telegram](https://t.me/MahmoudHosni0007)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:mahmoud@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/mahmoud-hosni2000)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF6B6B?style=flat-square&logo=web&logoColor=white)](https://portfolio-pkc8.vercel.app/)
+[![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/MahmoudHosni0007)
 
 </div>
 
