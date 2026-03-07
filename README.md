@@ -50,19 +50,6 @@ Front-End Developer from **Egypt** 🇪🇬 passionate about crafting beautiful,
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Tech | Description |
-|---------|------|-------------|
-| **🗺️ GIS Dashboard** | JS, Leaflet | Interactive mapping & analytics |
-| **🎬 Disney+ Clone** | React, Firebase | Streaming platform with auth |
-| **🔒 Smart Lock System** | Arduino, C++ | IoT smart home security |
-| **🛒 Jumia Clone** | React, JS | Full e-commerce platform |
-| **✈️ Tourism Guide** | React, APIs | Travel discovery app |
-| **💬 AI Chatter** | JS, NLP | ChatGPT-inspired chatbot |
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -76,24 +63,6 @@ Front-End Developer from **Egypt** 🇪🇬 passionate about crafting beautiful,
 </a>
 
 </div>
-
----
-
-## ✨ Highlights
-
-```
-📈 23+ Projects          🔥 100% Pull Requests      ⭐ Active Contributor
-🎮 Game Development      🗺️ GIS Applications       🔐 IoT & Hardware
-```
-
----
-
-## 🎓 Currently Learning
-
-- Advanced React Patterns
-- Full-Stack Development
-- Cloud Technologies
-- Web Performance Optimization
 
 ---
 
