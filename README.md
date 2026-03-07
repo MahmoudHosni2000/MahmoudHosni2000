@@ -79,14 +79,6 @@ I'm a **Front-End Developer** from **Egypt** 🇪🇬 passionate about crafting 
 
 </div>
 
----
-
-## 💼 Open To Opportunities
-
-✅ **Freelance Projects** | ✅ **Collaborations** | ✅ **Open Source** | ✅ **Mentoring**
-
----
-
 ## 📞 Let's Connect
 
 <div align="center">
