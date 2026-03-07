@@ -67,9 +67,13 @@ Front-End Developer from **Egypt** 🇪🇬 passionate about crafting beautiful,
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MahmoudHosni2000&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e)
+<a href="https://github.com/MahmoudHosni2000">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MahmoudHosni2000&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" />
+</a>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudHosni2000&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e)
+<a href="https://github.com/MahmoudHosni2000">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MahmoudHosni2000&layout=compact&langs_count=7&theme=github_dark" />
+</a>
 
 </div>
 
