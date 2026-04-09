@@ -3,14 +3,6 @@
 <div align="center">
 
 ```
-╔═══════════════════════════════════════════════════════════════╗
-║                                                               ║
-║          🚀 Front-End Developer | Web Enthusiast 🚀          ║
-║                                                               ║
-║              Building Beautiful Digital Experiences           ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
-```
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Mahmoud+Hosni;Front-End+Developer;React+%26+JavaScript+Specialist;Building+Beautiful+Experiences;Always+Learning+%26+Growing" alt="Typing SVG" />
 
