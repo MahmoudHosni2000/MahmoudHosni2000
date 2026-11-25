@@ -15,6 +15,8 @@ I'm looking for a junior front-end or full-stack role (remote, or open to reloca
 | [Menu.Web](https://github.com/MahmoudHosni2000/Menu.Web) | Menu and ordering REST API with auth and Stripe payments. [Live Swagger](https://restaurantmenuapi.runasp.net/swagger/index.html) | ASP.NET Core, SQL Server, EF Core, Redis, JWT, Stripe |
 | [E.Commerce](https://github.com/MahmoudHosni2000/E.Commerce) | Product catalog API with search, filtering, sorting and pagination. [Live Swagger](https://mahmoud-ecommerce-api.runasp.net) | ASP.NET Core, SQL Server, EF Core |
 | [GymManagementSystem_MVC](https://github.com/MahmoudHosni2000/GymManagementSystem_MVC) | Gym admin app: members, trainers, plans, memberships, sessions. [Live demo](https://gymmanagementsystemmvc.runasp.net/) | ASP.NET Core MVC, SQL Server, EF Core |
+| [Rayaa360](https://rayaa360.cloud/) | Clinic and patient management platform (Arabic). Live site. Repo is private, code available on request. | Next.js, React |
+| [SetraStore](https://setrastore.vercel.app/) | E-commerce storefront. Repo is private, code available on request. The backend is paused to save hosting resources, so the live site may not load data. | Next.js, React |
 | [Portfolio](https://github.com/MahmoudHosni2000/Portfolio) | My portfolio site with front-end projects | JavaScript |
 
 ## Tech stack
